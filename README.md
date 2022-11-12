@@ -9,11 +9,8 @@ Intrusion detection system (IDS) has become an essential layer in all the latest
 Intrusion detection, deep neural networks, machine learning, deep learning 
 
 ## Authors & Contributor:
-**[Taiwo Dele K](https://github.com/delian88)
+**[Taiwo Dele ](https://github.com/delian88)
 
-**<sup>∗</sup>Department of Mechanical Engineering, Amrita Vishwa Vidyapeetham, India.** <br/> 
-<sup>†</sup>Center for Computational Engineering and Networking (CEN), Amrita School of Engineering, Coimbatore.<br/> 
-<sup>‡</sup>Center for Cyber Security Systems and Networks, Amrita School of Engineering, Amritapuri Amrita Vishwa Vidyapeetham, India.
 
 ## How to run the code?
 ### For **Classical Machine Learning**
@@ -34,8 +31,8 @@ Intrusion detection, deep neural networks, machine learning, deep learning
 
 
 
-## Recommended Citation :
-If you use this repository in your research, cite the the following papers :
+##  Citation :
+
 
   1. Rahul, V.K., Vinayakumar, R., Soman, K.P., & Poornachandran, P. (2018). Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security. 2018 9th International Conference on Computing, Communication and Networking Technologies (ICCCNT), 1-6.
   2. Rahul-Vigneswaran, K., Poornachandran, P., & Soman, K.P. (2019). A Compendium on Network and Host based Intrusion Detection Systems. CoRR, abs/1904.03491.
@@ -59,8 +56,4 @@ If you use this repository in your research, cite the the following papers :
   }
 ```
 
-## Issue / Want to Contribute ? :
-Open a new issue or do a pull request incase your are facing any difficulty with the code base or you want to contribute to it.
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]()
-
+This research was done to because of the cyber security competion by Halogen Group
