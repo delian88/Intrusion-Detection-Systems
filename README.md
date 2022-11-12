@@ -56,4 +56,4 @@ Intrusion detection, deep neural networks, machine learning, deep learning
   }
 ```
 
-This research was done to because of the cyber security competion by Halogen Group
+This research was done because of the cyber security competion by Halogen Group
